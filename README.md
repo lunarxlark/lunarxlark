@@ -1,6 +1,6 @@
 ### Hi, I'm lunarxlark👋
 
-I :heart: :keyboard::dog::tent::vim:
+I :heart: :keyboard::dog::tent:
 
 - AWS
 - Terraform
